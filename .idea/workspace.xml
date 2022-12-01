@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f340d2-a81c-4f6e-8583-5893110461fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/BaseCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/CustomDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/CustomFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/UUID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Importance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enums/RunMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/ManualRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/SeverityStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/applications/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/applications/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/applications/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/applications/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/internetDistributors/Distributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/internetDistributors/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/internetDistributors/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/yarema/service/NetworkService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../NULP/jdk-17.0.1/lib/src.zip!/java.base/java/lang/ExceptionInInitializerError.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../NULP/jdk-17.0.1/lib/src.zip!/java.base/java/util/zip/ZipOutputStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HPVqfDgqikU5ag8x0S6jkyL5PD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="tzi_krr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yarema.Main" />
+      <module name="tzi_krr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yarema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service.ZipArchiever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.ZipArchiever" />
+      <module name="tzi_krr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.service.ZipArchiever" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f340d2-a81c-4f6e-8583-5893110461fc" name="Changes" comment="" />
+      <created>1668186899480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668186899480</updated>
+      <workItem from="1668186900859" duration="11032000" />
+      <workItem from="1668290069348" duration="6878000" />
+      <workItem from="1668339414026" duration="12487000" />
+      <workItem from="1668443179796" duration="630000" />
+      <workItem from="1668454627808" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
